@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edward Gunn</h1>
-<h3 align="center">A dedicated deep reinforcement learning learning researcher</h3>
+<h3 align="center">A Radio Frequency Data Scientist at The Alan Turing Instutute</h3>
 
-- 🔭 I’m currently working on [Communication efficient distributed reinforcement learning](https://github.com/edsgunn/evolution-strategies-with-probilbalistic-communication)
+- 🔭 I’m currently working on Radar Pulse Deinterleaving with transformer based metric learning
 
-- 🌱 I’m currently learning **JAX, Generative Models, NLP**
+- 🌱 I’m currently learning [**Theoretical Neuroscience**](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)
 
-- 👯 I’m looking to collaborate on **JAX for reinforcement learning**
-
-- 🤝 I’m looking for help with **Finding RL research jobs**
-
-- 👨‍💻 All of my projects are available at [https://edsgunn.github.io/](https://edsgunn.github.io/)
-
-- 💬 Ask me about **Generalization in reinforcement learning**
+- 💬 I am interested in **reasoning, multi-agent systems, applying ideas from neuroscience to build new machine learning algorithms, game theory, reinforcement learning**
 
 - 📫 How to reach me **edwardcharlesgunn@gmail.com**
 
